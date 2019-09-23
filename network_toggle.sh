@@ -3,8 +3,8 @@
 
 ip_server=http://www.baidu.com
 ip_server=http://www.mi.com
-ip_server=10.18.103.150
-#ip_server=172.31.255.254
+#ip_server=10.18.103.150
+ip_server=172.31.255.254
 dev_phy=wlxec3dfdfa4cbb
 latency_ok=4000
 signal_intensity_ok=70
